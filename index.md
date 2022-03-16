@@ -3,7 +3,7 @@ title: MIDS Capstone Project: Predicting ICU Readmissions
 feature_text: |
   ## Alembic
   A study to predict 30 - 60 day readmissions using MIMIC-IV and eICU Datasets.
-feature_image: "https://anesthesiology.weill.cornell.edu/sites/default/files/pages/criticalcare_banner.jpg"
+feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
